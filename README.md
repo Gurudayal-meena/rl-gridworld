@@ -396,29 +396,25 @@ The following visualizations summarize the original GridWorld configurations and
 
 ### 12.1 GridWorld Environment Layouts
 
-![GridWorld Environment Layouts](<img width="1705" height="848" alt="gridworld_layouts" src="https://github.com/user-attachments/assets/aaca3e6d-8415-4fa8-b96c-d84892c16dec" />
-)
+![GridWorld Environment Layouts](docs/figures/gridworld_layouts.png)
 
 The figure shows the Simple GridWorld and Maze GridWorld environments, including the starting positions, goal positions, and traps.
 
 ### 12.2 Training Success Rate Comparison
 
-![Training Success Comparison](<img width="1780" height="752" alt="training_success" src="https://github.com/user-attachments/assets/1ce7eee1-3f84-44ed-aa59-63325906fdce" />
-)
+![Training Success Comparison](docs/figures/training_success.png)
 
 The graph compares the recorded training success rates of the four algorithms across both environments.
 
 ### 12.3 Performance Difference Between Environments
 
-![Environment Performance Gap](<img width="1726" height="680" alt="environment_gap" src="https://github.com/user-attachments/assets/e3ebbb83-e7d8-4dcd-914f-117aee12dc25" />
-)
+![Environment Performance Gap](docs/figures/environment_gap.png)
 
 This figure shows the differences in training success rates between the Simple GridWorld and Maze GridWorld.
 
 ### 12.4 Greedy Evaluation Rewards
 
-![Greedy Evaluation Rewards](<img width="1691" height="680" alt="greedy_reward" src="https://github.com/user-attachments/assets/fc0d0de8-c709-4fc8-8c8a-368da1992aae" />
-)
+![Greedy Evaluation Rewards](docs/figures/greedy_reward.png)
 
 This graph presents the mean episode rewards obtained during greedy evaluation.
 
